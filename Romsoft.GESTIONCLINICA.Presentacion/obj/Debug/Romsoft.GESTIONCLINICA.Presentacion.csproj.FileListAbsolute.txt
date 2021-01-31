@@ -1,0 +1,233 @@
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CoreCompileInputs.cache
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+C:\Users\Xternal\Downloads\GestionClinicaV2\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.Net4.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.xml
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.xml
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmNuevoUsuario.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmFiltroUsuario.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmDashboardAdmin.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmLogin.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmListaOcupacion.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmNuevoOcupacion.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmFiltroOcupacion.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.Net4.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.pdb
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.xml
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.xml
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmDashboardAdmin.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmLogin.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmFiltroUsuario.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmNuevoUsuario.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmFiltroOcupacion.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmListaOcupacion.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmNuevoOcupacion.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CoreCompileInputs.cache
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicas\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.Net4.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.pdb
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.xml
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.xml
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmDashboardAdmin.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmLogin.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmFiltroUsuario.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmNuevoUsuario.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmFiltroOcupacion.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmListaOcupacion.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmNuevoOcupacion.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CoreCompileInputs.cache
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasV3\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.Net4.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.pdb
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.xml
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.xml
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmDashboardAdmin.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmLogin.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmNuevoTarifarioSegus.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmFiltroUsuario.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmNuevoUsuario.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmFiltroOcupacion.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmListaOcupacion.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmNuevoOcupacion.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CoreCompileInputs.cache
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasV4\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmNuevoTarifarioSegus.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmFiltroParticipantes.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.Net4.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.pdb
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.xml
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.xml
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmDashboardAdmin.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmLogin.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmFiltroParticipantes.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmNuevoTarifarioSegus.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmFiltroUsuario.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmNuevoUsuario.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmFiltroOcupacion.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmListaOcupacion.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmNuevoOcupacion.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CoreCompileInputs.cache
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasv5\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmFiltroCategoriaPago.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmListaTarifarioSegus.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmFiltroTarifario.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.Net4.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe.config
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\MaterialSkin.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.DTO.pdb
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\log4net.xml
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\AutoMapper.xml
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csprojAssemblyReference.cache
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmDashboardAdmin.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmLogin.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.frmPanelPrincipal.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmFiltroCategoriaPago.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmFiltroParticipantes.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmFiltroTarifario.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmListaTarifarioSegus.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.TarifarioSegus.frmNuevoTarifarioSegus.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmFiltroUsuario.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmListaUsuario.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloSeguridad.Usuario.frmNuevoUsuario.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmFiltroOcupacion.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmListaOcupacion.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloTablas.Ocupacion.frmNuevoOcupacion.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.Properties.Resources.resources
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.GenerateResource.cache
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CoreCompileInputs.cache
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.csproj.CopyComplete
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.exe
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.pdb
+D:\GestionClinicasV6\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.CategoriaPago.frmListaCategoriaPago.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.CategoriaPago.frmFiltroCategoriaPago.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.CategoriaPago.frmListaCategoriaPago.resources
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Presentacion\obj\Debug\Romsoft.GESTIONCLINICA.Presentacion.ModuloConvenios.CategoriaPago.frmNuevoCategoriaPago.resources

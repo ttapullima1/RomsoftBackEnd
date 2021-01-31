@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A56F7C2-6439-4472-953D-FABD505BCA84}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Romsoft.GESTIONCLINICA.Presentacion</RootNamespace>
+    <AssemblyName>Romsoft.GESTIONCLINICA.Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApiService\InvokeHelper.cs" />
+    <Compile Include="Core\AccountModel.cs" />
+    <Compile Include="Core\ComunFilter.cs" />
+    <Compile Include="Core\UsuarioModel.cs" />
+    <Compile Include="Core\WindowsSession.cs" />
+    <Compile Include="frmDashboardAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDashboardAdmin.Designer.cs">
+      <DependentUpon>frmDashboardAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPanelPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPanelPrincipal.Designer.cs">
+      <DependentUpon>frmPanelPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Mensaje.cs" />
+    <Compile Include="ModuloConvenios\CategoriaPago\frmFiltroCategoriaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\CategoriaPago\frmFiltroCategoriaPago.Designer.cs">
+      <DependentUpon>frmFiltroCategoriaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloConvenios\CategoriaPago\frmListaCategoriaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\CategoriaPago\frmListaCategoriaPago.Designer.cs">
+      <DependentUpon>frmListaCategoriaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloConvenios\CategoriaPago\frmNuevoCategoriaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\CategoriaPago\frmNuevoCategoriaPago.Designer.cs">
+      <DependentUpon>frmNuevoCategoriaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmFiltroCategoriaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmFiltroCategoriaPago.Designer.cs">
+      <DependentUpon>frmFiltroCategoriaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmFiltroParticipante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmFiltroParticipante.Designer.cs">
+      <DependentUpon>frmFiltroParticipante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmFiltroTarifario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmFiltroTarifario.Designer.cs">
+      <DependentUpon>frmFiltroTarifario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmListaTarifarioSegus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmListaTarifarioSegus.Designer.cs">
+      <DependentUpon>frmListaTarifarioSegus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmNuevoTarifarioSegus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConvenios\TarifarioSegus\frmNuevoTarifarioSegus.Designer.cs">
+      <DependentUpon>frmNuevoTarifarioSegus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloSeguridad\Usuario\frmFiltroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloSeguridad\Usuario\frmFiltroUsuario.Designer.cs">
+      <DependentUpon>frmFiltroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloSeguridad\Usuario\frmListaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloSeguridad\Usuario\frmListaUsuario.Designer.cs">
+      <DependentUpon>frmListaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloSeguridad\Usuario\frmNuevoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloSeguridad\Usuario\frmNuevoUsuario.Designer.cs">
+      <DependentUpon>frmNuevoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloTablas\Ocupacion\frmFiltroOcupacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloTablas\Ocupacion\frmFiltroOcupacion.Designer.cs">
+      <DependentUpon>frmFiltroOcupacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloTablas\Ocupacion\frmListaOcupacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloTablas\Ocupacion\frmListaOcupacion.Designer.cs">
+      <DependentUpon>frmListaOcupacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuloTablas\Ocupacion\frmNuevoOcupacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloTablas\Ocupacion\frmNuevoOcupacion.Designer.cs">
+      <DependentUpon>frmNuevoOcupacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\ConstantesWindows.cs" />
+    <EmbeddedResource Include="frmDashboardAdmin.resx">
+      <DependentUpon>frmDashboardAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPanelPrincipal.resx">
+      <DependentUpon>frmPanelPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\CategoriaPago\frmFiltroCategoriaPago.resx">
+      <DependentUpon>frmFiltroCategoriaPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\CategoriaPago\frmListaCategoriaPago.resx">
+      <DependentUpon>frmListaCategoriaPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\CategoriaPago\frmNuevoCategoriaPago.resx">
+      <DependentUpon>frmNuevoCategoriaPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\TarifarioSegus\frmFiltroCategoriaPago.resx">
+      <DependentUpon>frmFiltroCategoriaPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\TarifarioSegus\frmFiltroParticipante.resx">
+      <DependentUpon>frmFiltroParticipante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\TarifarioSegus\frmFiltroTarifario.resx">
+      <DependentUpon>frmFiltroTarifario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\TarifarioSegus\frmListaTarifarioSegus.resx">
+      <DependentUpon>frmListaTarifarioSegus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloConvenios\TarifarioSegus\frmNuevoTarifarioSegus.resx">
+      <DependentUpon>frmNuevoTarifarioSegus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloSeguridad\Usuario\frmFiltroUsuario.resx">
+      <DependentUpon>frmFiltroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloSeguridad\Usuario\frmListaUsuario.resx">
+      <DependentUpon>frmListaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloSeguridad\Usuario\frmNuevoUsuario.resx">
+      <DependentUpon>frmNuevoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloTablas\Ocupacion\frmFiltroOcupacion.resx">
+      <DependentUpon>frmFiltroOcupacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloTablas\Ocupacion\frmListaOcupacion.resx">
+      <DependentUpon>frmListaOcupacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuloTablas\Ocupacion\frmNuevoOcupacion.resx">
+      <DependentUpon>frmNuevoOcupacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Romsoft.GESTIONCLINICA.DTO.TABLAS.ADM_OCUPACION.ADM_OCUPACIONDTO.datasource" />
+    <None Include="Properties\DataSources\Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_CATEGORIA_PAGO.CVN_CATEGORIA_PAGODTO.datasource" />
+    <None Include="Properties\DataSources\Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_TARIFARIO_SEGUS.CVN_TARIFARIO_LISTADTO.datasource" />
+    <None Include="Properties\DataSources\Romsoft.GESTIONCLINICA.DTO.TABLAS.SEG_USUARIO.SEG_USUARIODTO.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Romsoft.GESTIONCLINICA.Common\Romsoft.GESTIONCLINICA.Common.csproj">
+      <Project>{57ccedd4-479f-4042-90c9-0814a5c4b144}</Project>
+      <Name>Romsoft.GESTIONCLINICA.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Romsoft.GESTIONCLINICA.DTO\Romsoft.GESTIONCLINICA.DTO.csproj">
+      <Project>{97e72e66-47d7-46ab-a3ff-a1a696c847f2}</Project>
+      <Name>Romsoft.GESTIONCLINICA.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archivos\Iconos\RomsoftICO5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archivos\Imagenes\RomsoftPNG9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archivos\Imagenes\RomsoftPNG5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archivos\Imagenes\icono-cliente.png" />
+    <None Include="Resources\Archivos\Iconos\salvar %282%29.png" />
+    <None Include="Resources\Archivos\Iconos\cancelar.png" />
+    <None Include="Resources\Archivos\Iconos\buscar.png" />
+    <None Include="Resources\Archivos\Iconos\Guardar.jpeg" />
+    <None Include="Resources\Archivos\Iconos\Cancelar.jpeg" />
+    <None Include="Resources\Archivos\Imagenes\FondoPrincipal.jpeg" />
+    <Content Include="Resources\Archivos\Imagenes\LOGOPNG.png" />
+    <Content Include="Resources\Archivos\Imagenes\PNG1.png" />
+    <Content Include="Resources\Archivos\Imagenes\PNG2.png" />
+    <Content Include="Resources\Archivos\Imagenes\PNG3.png" />
+    <Content Include="Resources\Archivos\Imagenes\PNG4.png" />
+    <Content Include="Resources\Archivos\Imagenes\PNG5.png" />
+    <Content Include="Resources\Archivos\Imagenes\SUNAT.png" />
+    <Content Include="Resources\Archivos\Imagenes\SUSALUD.ico" />
+    <None Include="Resources\Archivos\Iconos\add.png" />
+    <None Include="Resources\Archivos\Iconos\filtrar.png" />
+    <None Include="Resources\Archivos\Iconos\Cerrar.png" />
+    <None Include="Resources\Archivos\Iconos\Editar2.png" />
+    <None Include="Resources\Archivos\Iconos\Eliminar2.png" />
+    <Content Include="Resources\Archivos\Iconos\16-caja-fuerte.png" />
+    <Content Include="Resources\Archivos\Iconos\16-cerrar-sesion.png" />
+    <Content Include="Resources\Archivos\Iconos\16-comprobante.png" />
+    <Content Include="Resources\Archivos\Iconos\16-configuraciones.png" />
+    <Content Include="Resources\Archivos\Iconos\16-editar.png" />
+    <Content Include="Resources\Archivos\Iconos\16-filtrar.png" />
+    <Content Include="Resources\Archivos\Iconos\16-gastos.png" />
+    <Content Include="Resources\Archivos\Iconos\16-grupo.png" />
+    <Content Include="Resources\Archivos\Iconos\16-ley.png" />
+    <Content Include="Resources\Archivos\Iconos\16-maleta.png" />
+    <Content Include="Resources\Archivos\Iconos\16-medicamento.png" />
+    <Content Include="Resources\Archivos\Iconos\16-medico.png" />
+    <Content Include="Resources\Archivos\Iconos\16-Nuevo.png" />
+    <Content Include="Resources\Archivos\Iconos\16-papel.png" />
+    <Content Include="Resources\Archivos\Iconos\16-perfil-del-usuario.png" />
+    <Content Include="Resources\Archivos\Iconos\16-punto-de-venta.png" />
+    <Content Include="Resources\Archivos\Iconos\16-quimica.png" />
+    <Content Include="Resources\Archivos\Iconos\16-recepcion.png" />
+    <Content Include="Resources\Archivos\Iconos\16-tabla.png" />
+    <Content Include="Resources\Archivos\Iconos\16-usuario.png" />
+    <Content Include="Resources\Archivos\Iconos\24-caja-fuerte.png" />
+    <Content Include="Resources\Archivos\Iconos\24-cerrar-sesion.png" />
+    <Content Include="Resources\Archivos\Iconos\24-comprobante.png" />
+    <Content Include="Resources\Archivos\Iconos\24-configuraciones.png" />
+    <Content Include="Resources\Archivos\Iconos\24-filtrar.png" />
+    <Content Include="Resources\Archivos\Iconos\24-gastos.png" />
+    <Content Include="Resources\Archivos\Iconos\24-grupo.png" />
+    <Content Include="Resources\Archivos\Iconos\24-ley.png" />
+    <Content Include="Resources\Archivos\Iconos\24-maleta.png" />
+    <Content Include="Resources\Archivos\Iconos\24-medicamento.png" />
+    <Content Include="Resources\Archivos\Iconos\24-medico.png" />
+    <Content Include="Resources\Archivos\Iconos\24-nuevo.png" />
+    <Content Include="Resources\Archivos\Iconos\24-papel.png" />
+    <Content Include="Resources\Archivos\Iconos\24-perfil-del-usuario.png" />
+    <Content Include="Resources\Archivos\Iconos\24-punto-de-venta.png" />
+    <Content Include="Resources\Archivos\Iconos\24-quimica.png" />
+    <Content Include="Resources\Archivos\Iconos\24-recepcion.png" />
+    <Content Include="Resources\Archivos\Iconos\24-tabla.png" />
+    <Content Include="Resources\Archivos\Iconos\24-usuario.png" />
+    <Content Include="Resources\Archivos\Iconos\32-caja-fuerte.png" />
+    <Content Include="Resources\Archivos\Iconos\32-cerrar-sesion.png" />
+    <Content Include="Resources\Archivos\Iconos\32-comprobante.png" />
+    <Content Include="Resources\Archivos\Iconos\32-configuraciones.png" />
+    <Content Include="Resources\Archivos\Iconos\32-filtrar.png" />
+    <Content Include="Resources\Archivos\Iconos\32-gastos.png" />
+    <Content Include="Resources\Archivos\Iconos\32-grupo.png" />
+    <Content Include="Resources\Archivos\Iconos\32-ley.png" />
+    <Content Include="Resources\Archivos\Iconos\32-maleta.png" />
+    <Content Include="Resources\Archivos\Iconos\32-medicamento.png" />
+    <Content Include="Resources\Archivos\Iconos\32-medico.png" />
+    <Content Include="Resources\Archivos\Iconos\32-nuevo.png" />
+    <Content Include="Resources\Archivos\Iconos\32-papel.png" />
+    <Content Include="Resources\Archivos\Iconos\32-perfil-del-usuario.png" />
+    <Content Include="Resources\Archivos\Iconos\32-punto-de-venta.png" />
+    <Content Include="Resources\Archivos\Iconos\32-quimica.png" />
+    <Content Include="Resources\Archivos\Iconos\32-recepcion.png" />
+    <Content Include="Resources\Archivos\Iconos\32-tabla.png" />
+    <Content Include="Resources\Archivos\Iconos\32-usuario.png" />
+    <Content Include="Resources\Archivos\Iconos\informe-medico.png" />
+    <None Include="Resources\exportar.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
