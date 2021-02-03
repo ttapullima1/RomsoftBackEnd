@@ -97,7 +97,27 @@ namespace Romsoft.GESTIONCLINICA.DataAccess.Tablas
 
         public IList<CON_CONTACTO> GetAllActives()
         {
-            throw new NotImplementedException();
+            List<CON_CONTACTO> concontacto = new List<CON_CONTACTO>();
+            using (var comando = _database.GetStoredProcCommand(string.Format("{0}{1}", ConectionStringRepository.EsquemaName, "p_CON_CONTACTO_GetAllActives")))
+            {
+                //_database.AddInParameter(comando, "@f_estado", DbType.Int32, entity.f_estado);
+
+                using (var lector = _database.ExecuteReader(comando))
+                {
+                    while (lector.Read())
+                    {
+                        concontacto.Add(new CON_CONTACTO
+                        {
+                            id_contacto = lector.IsDBNull(lector.GetOrdinal("id_contacto")) ? default(int) : lector.GetInt32(lector.GetOrdinal("id_contacto")),
+                            c_codigo = lector.IsDBNull(lector.GetOrdinal("c_codigo")) ? default(string) : lector.GetString(lector.GetOrdinal("c_codigo")),
+                            t_razon_social = lector.IsDBNull(lector.GetOrdinal("t_razon_social")) ? default(string) : lector.GetString(lector.GetOrdinal("t_razon_social")),
+
+                        });
+                    }
+                }
+            }
+
+            return concontacto;
         }
 
         public IList<CON_CONTACTO> GetAllFilters(CON_CONTACTO entity)
@@ -191,7 +211,40 @@ namespace Romsoft.GESTIONCLINICA.DataAccess.Tablas
 
         public int Update(CON_CONTACTO entity)
         {
-            throw new NotImplementedException();
+            int id;
+
+            using (var comando = _database.GetStoredProcCommand(string.Format("{0}{1}", ConectionStringRepository.EsquemaName, "p_CON_CONTACTO_Update")))
+            {
+                _database.AddInParameter(comando, "@id_contacto", DbType.Int32, entity.id_contacto);
+                _database.AddInParameter(comando, "@id_tipo_contacto", DbType.Int32, entity.id_tipo_contacto);
+                _database.AddInParameter(comando, "@c_codigo", DbType.String, entity.c_codigo);
+                _database.AddInParameter(comando, "@c_codigo_sunat", DbType.String, entity.c_codigo_sunat);
+                _database.AddInParameter(comando, "@t_apellidos", DbType.String, entity.t_apellidos);
+                _database.AddInParameter(comando, "@t_nombres", DbType.String, entity.t_nombres);
+                _database.AddInParameter(comando, "@t_razon_social", DbType.String, entity.t_razon_social);
+                _database.AddInParameter(comando, "@t_razon_comercial", DbType.String, entity.t_razon_comercial);
+                _database.AddInParameter(comando, "@t_observacion", DbType.String, entity.t_observacion);
+                _database.AddInParameter(comando, "@t_direccion", DbType.String, entity.t_direccion);
+                _database.AddInParameter(comando, "@t_contacto", DbType.String, entity.t_contacto);
+                _database.AddInParameter(comando, "@t_actividad_economica", DbType.String, entity.t_actividad_economica);
+                _database.AddInParameter(comando, "@c_telefono1", DbType.String, entity.c_telefono1);
+                _database.AddInParameter(comando, "@c_telefono2", DbType.String, entity.c_telefono2);
+                _database.AddInParameter(comando, "@t_email_ffee", DbType.String, entity.t_email_ffee);
+                _database.AddInParameter(comando, "@n_dias_credito", DbType.Int32, entity.n_dias_credito);
+                _database.AddInParameter(comando, "@n_flag_garante", DbType.Int32, entity.n_flag_garante);
+                _database.AddInParameter(comando, "@n_flag_contratante", DbType.Int32, entity.n_flag_contratante);
+                _database.AddInParameter(comando, "@n_flag_proveedor", DbType.Int32, entity.n_flag_proveedor);
+                _database.AddInParameter(comando, "@n_flag_habido", DbType.Int32, entity.n_flag_habido);
+                _database.AddInParameter(comando, "@f_estado", DbType.Int32, entity.f_estado);
+                _database.AddInParameter(comando, "@id_user_modifica", DbType.Int32, entity.id_usuarioModifica);
+                _database.AddInParameter(comando, "@d_fecha_modifica", DbType.DateTime, entity.FechaModificacion);
+                _database.AddOutParameter(comando, "@Response", DbType.Int32, 11);
+
+                _database.ExecuteNonQuery(comando);
+                id = Convert.ToInt32(_database.GetParameterValue(comando, "@Response"));
+            }
+
+            return id;
         }
     }
 }

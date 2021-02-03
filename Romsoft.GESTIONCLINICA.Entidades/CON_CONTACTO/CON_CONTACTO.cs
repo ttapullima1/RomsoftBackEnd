@@ -27,12 +27,8 @@ namespace Romsoft.GESTIONCLINICA.Entidades.CON_CONTACTO
         public int f_estado { get; set; }
         public int id_user_registro { get; set; }
         public int Response { get; set; }
-
         public string codigo_tc { get; set; }
         public string estado { get; set; }
-
         public string valor { get; set; }
-
-
     }
 }

@@ -32,7 +32,7 @@ namespace Romsoft.GESTIONCLINICA.Business.Logic.Tablas
 
         public IList<CON_CONTACTO> GetAllActives()
         {
-            throw new NotImplementedException();
+            return CON_CONTACTORepository.Instancia.GetAllActives();
         }
 
         public IList<CON_CONTACTO> GetAllFilters(CON_CONTACTO entity)
@@ -57,7 +57,7 @@ namespace Romsoft.GESTIONCLINICA.Business.Logic.Tablas
 
         public int Update(CON_CONTACTO entity)
         {
-            throw new NotImplementedException();
+            return CON_CONTACTORepository.Instancia.Update(entity);
         }
     }
 }

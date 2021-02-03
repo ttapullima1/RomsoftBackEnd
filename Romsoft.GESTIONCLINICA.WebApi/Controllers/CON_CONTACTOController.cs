@@ -175,6 +175,78 @@ namespace Romsoft.GESTIONCLINICA.WebApi.Controllers
             return jsonResponse;
         }
 
+        [HttpPost]
+        public JsonResponse GetAllActives()
+        {
+            var jsonResponse = new JsonResponse { Success = true };
+
+            try
+            {
+                //var tarifario = MapperHelper.Map<CVN_TARIFARIO_SEGUSDTO, CVN_TARIFARIO_SEGUS>(listatarifarioDTO);
+
+                var contactoList = CON_CONTACTOBL.Instancia.GetAllActives();
+                var contactoDTOList = MapperHelper.Map<IEnumerable<CON_CONTACTO>, IEnumerable<CON_CONTACTODTO>>(contactoList);
+                jsonResponse.Data = contactoDTOList;
+            }
+            catch (Exception ex)
+            {
+                LogError(ex);
+                jsonResponse.Success = false;
+                jsonResponse.Message = Mensajes.IntenteloMasTarde;
+            }
+
+            return jsonResponse;
+        }
+
+        [HttpPost]
+        public JsonResponse Update(CON_CONTACTODTO concontactoDTO)
+        {
+            var jsonResponse = new JsonResponse { Success = true };
+            try
+            {
+                var contacto = MapperHelper.Map<CON_CONTACTODTO, CON_CONTACTO>(concontactoDTO);
+                int resultado = CON_CONTACTOBL.Instancia.Update(contacto);
+
+                if (resultado > 0)
+                {
+                    jsonResponse.Message = Mensajes.ActualizacionSatisfactoria;
+                }
+                else
+                {
+                    jsonResponse.Warning = true;
+                    jsonResponse.Message = Mensajes.ActualizacionFallida;
+                }
+
+                LogBL.Instancia.Add(new Log
+                {
+                    Accion = Mensajes.Update,
+                    Controlador = Mensajes.UsuarioController,
+                    Identificador = resultado,
+                    Mensaje = jsonResponse.Message,
+                    Usuario = concontactoDTO.UsuarioModificacion,
+                    Objeto = JsonConvert.SerializeObject(concontactoDTO)
+                });
+            }
+            catch (Exception ex)
+            {
+                LogError(ex);
+                jsonResponse.Success = false;
+                jsonResponse.Message = Mensajes.IntenteloMasTarde;
+
+                LogBL.Instancia.Add(new Log
+                {
+                    Accion = Mensajes.Update,
+                    Controlador = Mensajes.UsuarioController,
+                    Identificador = 0,
+                    Mensaje = ex.Message,
+                    Usuario = concontactoDTO.UsuarioModificacion,
+                    Objeto = JsonConvert.SerializeObject(concontactoDTO)
+                });
+            }
+
+            return jsonResponse;
+        }
+
 
     }
 }
