@@ -133,11 +133,17 @@
     <Compile Include="Controllers\CON_CENTRO_COSTOController.cs" />
     <Compile Include="Controllers\CON_CONTACTOController.cs" />
     <Compile Include="Controllers\CON_CUENTA_CONTABLEController.cs" />
+    <Compile Include="Controllers\CON_TIPO_CONTACTOController.cs" />
+    <Compile Include="Controllers\CVN_BENEFICIOController.cs" />
     <Compile Include="Controllers\CVN_CATEGORIA_PAGOController.cs" />
     <Compile Include="Controllers\CVN_CATEGORIA_PAGO_PRECIOController.cs" />
     <Compile Include="Controllers\CVN_CLASIFICACION_SEGUSController.cs" />
     <Compile Include="Controllers\CVN_CLASIFICACION_SUSALUDController.cs" />
     <Compile Include="Controllers\CVN_CLASIFICACION_SUSALUD_ODController.cs" />
+    <Compile Include="Controllers\CVN_MONEDAController.cs" />
+    <Compile Include="Controllers\CVN_PLAN_SEGUROController.cs" />
+    <Compile Include="Controllers\CVN_PLAN_SEGURO_DETALLEController.cs" />
+    <Compile Include="Controllers\CVN_PRODUCTO_PLANController.cs" />
     <Compile Include="Controllers\CVN_TARIFARIO_SEGUSController.cs" />
     <Compile Include="Controllers\CVN_TARIFARIO_SEGUS_PARTICIPANTEController.cs" />
     <Compile Include="Controllers\CVN_TIPO_PRECIOController.cs" />

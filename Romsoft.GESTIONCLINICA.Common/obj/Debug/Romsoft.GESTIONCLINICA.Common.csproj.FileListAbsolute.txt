@@ -14,3 +14,11 @@ D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft
 D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Common\obj\Debug\Romsoft.GESTIONCLINICA.Common.csproj.CopyComplete
 D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Common\obj\Debug\Romsoft.GESTIONCLINICA.Common.dll
 D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Common\obj\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\obj\Debug\Romsoft.GESTIONCLINICA.Common.csprojAssemblyReference.cache
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\obj\Debug\Romsoft.GESTIONCLINICA.Common.csproj.CopyComplete
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\obj\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Common\obj\Debug\Romsoft.GESTIONCLINICA.Common.pdb

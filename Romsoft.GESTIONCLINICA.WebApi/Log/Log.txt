@@ -779,3 +779,184 @@ Romsoft.GESTIONCLINICA.Entidades.CON_CENTRO_COSTO.CON_CENTRO_COSTO Trace:    en 
    en Romsoft.GESTIONCLINICA.DataAccess.Tablas.CON_CONTACTORepository.GetAllFilters(CON_CONTACTO entity) en D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\Tablas\CON_CONTACTORepository.cs:línea 110
    en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.CON_CONTACTOBL.GetAllFilters(CON_CONTACTO entity) en D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\CON_CONTACTOBL.cs:línea 40
    en Romsoft.GESTIONCLINICA.WebApi.Controllers.CON_CONTACTOController.GetAllFilters(CON_CONTACTODTO concontactoDTO) en D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.WebApi\Controllers\CON_CONTACTOController.cs:línea 164
+2021-02-02 12:33:35,511 ERROR  - Mensaje: id_contacto Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.CVN_BENEFICIORepository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\CVN_BENEFICIORepository.cs:línea 51
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.CVN_BENEFICIOBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\CVN_BENEFICIOBL.cs:línea 35
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_BENEFICIOController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_BENEFICIOController.cs:línea 26
+2021-02-02 12:33:35,763 ERROR  - Mensaje: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CVN_MONEDA -> CVN_MONEDADTO
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA -> Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_MONEDA.CVN_MONEDADTO
+
+Destination path:
+IEnumerable`1[0]
+
+Source value:
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA Trace:    en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.Mappers.EnumerableMapperBase`1.Map(ResolutionContext context, IMappingEngineRunner mapper)
+   en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.MappingEngine.Map(Object source, Type sourceType, Type destinationType, Action`1 opts)
+   en AutoMapper.MappingEngine.Map[TSource,TDestination](TSource source)
+   en AutoMapper.Mapper.Map[TSource,TDestination](TSource source)
+   en Romsoft.GESTIONCLINICA.DTO.AutoMapper.MapperHelper.Map[TSource,TDest](TSource source) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DTO\AutoMapper\MapperHelper.cs:línea 9
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_MONEDAController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_MONEDAController.cs:línea 27
+2021-02-02 12:34:17,161 ERROR  - Mensaje: id_contacto Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.CVN_BENEFICIORepository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\CVN_BENEFICIORepository.cs:línea 51
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.CVN_BENEFICIOBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\CVN_BENEFICIOBL.cs:línea 35
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_BENEFICIOController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_BENEFICIOController.cs:línea 26
+2021-02-02 12:34:57,976 ERROR  - Mensaje: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CVN_MONEDA -> CVN_MONEDADTO
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA -> Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_MONEDA.CVN_MONEDADTO
+
+Destination path:
+IEnumerable`1[0]
+
+Source value:
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA Trace:    en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.Mappers.EnumerableMapperBase`1.Map(ResolutionContext context, IMappingEngineRunner mapper)
+   en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.MappingEngine.Map(Object source, Type sourceType, Type destinationType, Action`1 opts)
+   en AutoMapper.MappingEngine.Map[TSource,TDestination](TSource source)
+   en AutoMapper.Mapper.Map[TSource,TDestination](TSource source)
+   en Romsoft.GESTIONCLINICA.DTO.AutoMapper.MapperHelper.Map[TSource,TDest](TSource source) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DTO\AutoMapper\MapperHelper.cs:línea 9
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_MONEDAController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_MONEDAController.cs:línea 27
+2021-02-02 12:35:37,672 ERROR  - Mensaje: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CVN_BENEFICIO -> CVN_BENEFICIODTO
+Romsoft.GESTIONCLINICA.Entidades.CVN_BENEFICIO.CVN_BENEFICIO -> Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_BENEFICIO.CVN_BENEFICIODTO
+
+Destination path:
+IEnumerable`1[0]
+
+Source value:
+Romsoft.GESTIONCLINICA.Entidades.CVN_BENEFICIO.CVN_BENEFICIO Trace:    en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.Mappers.EnumerableMapperBase`1.Map(ResolutionContext context, IMappingEngineRunner mapper)
+   en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.MappingEngine.Map(Object source, Type sourceType, Type destinationType, Action`1 opts)
+   en AutoMapper.MappingEngine.Map[TSource,TDestination](TSource source)
+   en AutoMapper.Mapper.Map[TSource,TDestination](TSource source)
+   en Romsoft.GESTIONCLINICA.DTO.AutoMapper.MapperHelper.Map[TSource,TDest](TSource source) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DTO\AutoMapper\MapperHelper.cs:línea 9
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_BENEFICIOController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_BENEFICIOController.cs:línea 27
+2021-02-02 12:36:46,369 ERROR  - Mensaje: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CVN_MONEDA -> CVN_MONEDADTO
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA -> Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_MONEDA.CVN_MONEDADTO
+
+Destination path:
+IEnumerable`1[0]
+
+Source value:
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA Trace:    en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.Mappers.EnumerableMapperBase`1.Map(ResolutionContext context, IMappingEngineRunner mapper)
+   en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.MappingEngine.Map(Object source, Type sourceType, Type destinationType, Action`1 opts)
+   en AutoMapper.MappingEngine.Map[TSource,TDestination](TSource source)
+   en AutoMapper.Mapper.Map[TSource,TDestination](TSource source)
+   en Romsoft.GESTIONCLINICA.DTO.AutoMapper.MapperHelper.Map[TSource,TDest](TSource source) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DTO\AutoMapper\MapperHelper.cs:línea 9
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_MONEDAController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_MONEDAController.cs:línea 27
+2021-02-02 12:37:15,271 ERROR  - Mensaje: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CVN_BENEFICIO -> CVN_BENEFICIODTO
+Romsoft.GESTIONCLINICA.Entidades.CVN_BENEFICIO.CVN_BENEFICIO -> Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_BENEFICIO.CVN_BENEFICIODTO
+
+Destination path:
+IEnumerable`1[0]
+
+Source value:
+Romsoft.GESTIONCLINICA.Entidades.CVN_BENEFICIO.CVN_BENEFICIO Trace:    en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.Mappers.EnumerableMapperBase`1.Map(ResolutionContext context, IMappingEngineRunner mapper)
+   en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.MappingEngine.Map(Object source, Type sourceType, Type destinationType, Action`1 opts)
+   en AutoMapper.MappingEngine.Map[TSource,TDestination](TSource source)
+   en AutoMapper.Mapper.Map[TSource,TDestination](TSource source)
+   en Romsoft.GESTIONCLINICA.DTO.AutoMapper.MapperHelper.Map[TSource,TDest](TSource source) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DTO\AutoMapper\MapperHelper.cs:línea 9
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_BENEFICIOController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_BENEFICIOController.cs:línea 27
+2021-02-02 12:37:37,667 ERROR  - Mensaje: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CVN_MONEDA -> CVN_MONEDADTO
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA -> Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_MONEDA.CVN_MONEDADTO
+
+Destination path:
+IEnumerable`1[0]
+
+Source value:
+Romsoft.GESTIONCLINICA.Entidades.CVN_MONEDA.CVN_MONEDA Trace:    en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.Mappers.EnumerableMapperBase`1.Map(ResolutionContext context, IMappingEngineRunner mapper)
+   en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.MappingEngine.Map(Object source, Type sourceType, Type destinationType, Action`1 opts)
+   en AutoMapper.MappingEngine.Map[TSource,TDestination](TSource source)
+   en AutoMapper.Mapper.Map[TSource,TDestination](TSource source)
+   en Romsoft.GESTIONCLINICA.DTO.AutoMapper.MapperHelper.Map[TSource,TDest](TSource source) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DTO\AutoMapper\MapperHelper.cs:línea 9
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_MONEDAController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_MONEDAController.cs:línea 27
+2021-02-02 12:38:51,348 ERROR  - Mensaje: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CVN_BENEFICIO -> CVN_BENEFICIODTO
+Romsoft.GESTIONCLINICA.Entidades.CVN_BENEFICIO.CVN_BENEFICIO -> Romsoft.GESTIONCLINICA.DTO.TABLAS.CVN_BENEFICIO.CVN_BENEFICIODTO
+
+Destination path:
+IEnumerable`1[0]
+
+Source value:
+Romsoft.GESTIONCLINICA.Entidades.CVN_BENEFICIO.CVN_BENEFICIO Trace:    en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.Mappers.EnumerableMapperBase`1.Map(ResolutionContext context, IMappingEngineRunner mapper)
+   en AutoMapper.MappingEngine.AutoMapper.IMappingEngineRunner.Map(ResolutionContext context)
+   en AutoMapper.MappingEngine.Map(Object source, Type sourceType, Type destinationType, Action`1 opts)
+   en AutoMapper.MappingEngine.Map[TSource,TDestination](TSource source)
+   en AutoMapper.Mapper.Map[TSource,TDestination](TSource source)
+   en Romsoft.GESTIONCLINICA.DTO.AutoMapper.MapperHelper.Map[TSource,TDest](TSource source) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DTO\AutoMapper\MapperHelper.cs:línea 9
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_BENEFICIOController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_BENEFICIOController.cs:línea 27
+2021-02-02 14:42:58,490 ERROR  - Mensaje: La conversión especificada no es válida. Trace:    en System.Data.SqlClient.SqlBuffer.get_Int32()
+   en System.Data.SqlClient.SqlDataReader.GetInt32(Int32 i)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetInt32(Int32 i)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.CVN_PLAN_SEGURO_DETALLERepository.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\CVN_PLAN_SEGURO_DETALLERepository.cs:línea 88
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.CVN_PLAN_SEGURO_DETALLEBL.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\CVN_PLAN_SEGURO_DETALLEBL.cs:línea 40
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_PLAN_SEGURO_DETALLEController.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLEDTO segurodetalleDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_PLAN_SEGURO_DETALLEController.cs:línea 135
+2021-02-02 14:43:09,001 ERROR  - Mensaje: La conversión especificada no es válida. Trace:    en System.Data.SqlClient.SqlBuffer.get_Int32()
+   en System.Data.SqlClient.SqlDataReader.GetInt32(Int32 i)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetInt32(Int32 i)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.CVN_PLAN_SEGURO_DETALLERepository.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\CVN_PLAN_SEGURO_DETALLERepository.cs:línea 88
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.CVN_PLAN_SEGURO_DETALLEBL.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\CVN_PLAN_SEGURO_DETALLEBL.cs:línea 40
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_PLAN_SEGURO_DETALLEController.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLEDTO segurodetalleDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_PLAN_SEGURO_DETALLEController.cs:línea 135
+2021-02-02 14:45:06,956 ERROR  - Mensaje: La conversión especificada no es válida. Trace:    en System.Data.SqlClient.SqlBuffer.get_Int32()
+   en System.Data.SqlClient.SqlDataReader.GetInt32(Int32 i)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetInt32(Int32 i)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.CVN_PLAN_SEGURO_DETALLERepository.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\CVN_PLAN_SEGURO_DETALLERepository.cs:línea 88
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.CVN_PLAN_SEGURO_DETALLEBL.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\CVN_PLAN_SEGURO_DETALLEBL.cs:línea 40
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_PLAN_SEGURO_DETALLEController.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLEDTO segurodetalleDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_PLAN_SEGURO_DETALLEController.cs:línea 135
+2021-02-02 14:56:58,515 ERROR  - Mensaje: La conversión especificada no es válida. Trace:    en System.Data.SqlClient.SqlBuffer.get_Int32()
+   en System.Data.SqlClient.SqlDataReader.GetInt32(Int32 i)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetInt32(Int32 i)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.CVN_PLAN_SEGURO_DETALLERepository.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\CVN_PLAN_SEGURO_DETALLERepository.cs:línea 88
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.CVN_PLAN_SEGURO_DETALLEBL.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\CVN_PLAN_SEGURO_DETALLEBL.cs:línea 40
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.CVN_PLAN_SEGURO_DETALLEController.GetAllActivesFilters(CVN_PLAN_SEGURO_DETALLEDTO segurodetalleDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\CVN_PLAN_SEGURO_DETALLEController.cs:línea 135
+2021-02-02 15:10:26,579 ERROR  - Mensaje: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: TCP Provider, error: 0 - Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder.) Trace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.GetNewOpenConnection()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.GetWrappedConnection()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.SEG_USUARIORepository.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\SEG_USUARIORepository.cs:línea 183
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.SEG_USUARIOBL.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\SEG_USUARIOBL.cs:línea 57
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.AccountController.Login(LoginDTO loginDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\AccountController.cs:línea 23
