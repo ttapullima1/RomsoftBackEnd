@@ -29,7 +29,13 @@ namespace Romsoft.GESTIONCLINICA.DataAccess.Core
             }
         }
 
-
+        public static string ConnectionStringACCESS
+        {
+            get
+            {
+                return "ConnectionStringACCESS";
+            }
+        }
         #endregion
 
         public static string EsquemaName

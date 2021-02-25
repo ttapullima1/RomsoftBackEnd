@@ -41,7 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ADM_ATENCION\ADM_ATENCION.cs" />
+    <Compile Include="ADM_CONDICION_PROFESIONAL\ADM_CONDICION_PROFESIONAL.cs" />
+    <Compile Include="ADM_DOCUMENTO_AUTORIZACION\ADM_DOCUMENTO_AUTORIZACION.cs" />
+    <Compile Include="ADM_DOCUMENTO_IDENTIDAD\ADM_DOCUMENTO_IDENTIDAD.cs" />
+    <Compile Include="ADM_ESPECIALIDAD\ADM_ESPECIALIDAD.cs" />
+    <Compile Include="ADM_ESTADO_CIVIL\ADM_ESTADO_CIVIL.cs" />
+    <Compile Include="ADM_GENERO\ADM_GENERO.cs" />
+    <Compile Include="ADM_GRUPO_SANGUINEO\ADM_GRUPO_SANGUINEO.cs" />
     <Compile Include="ADM_OCUPACION\ADM_OCUPACION.cs" />
+    <Compile Include="ADM_PACIENTE\ADM_PACIENTE.cs" />
+    <Compile Include="ADM_TIPO_PROFESIONAL\ADM_TIPO_PROFESIONAL.cs" />
+    <Compile Include="ADM_UBIGEO\ADM_UBIGEO.cs" />
     <Compile Include="CON_CENTRO_COSTO\CON_CENTRO_COSTO.cs" />
     <Compile Include="CON_CONTACTO\CON_CONTACTO.cs" />
     <Compile Include="CON_CUENTA_CONTABLE\CON_CUENTA_CONTABLE.cs" />

@@ -128,7 +128,15 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\ADM_ATENCIONController.cs" />
+    <Compile Include="Controllers\ADM_DOCUMENTO_AUTORIZACIONController.cs" />
+    <Compile Include="Controllers\ADM_DOCUMENTO_IDENTIDADController.cs" />
+    <Compile Include="Controllers\ADM_ESTADO_CIVILController.cs" />
+    <Compile Include="Controllers\ADM_GENEROController.cs" />
+    <Compile Include="Controllers\ADM_GRUPO_SANGUINEOController.cs" />
     <Compile Include="Controllers\ADM_OCUPACIONController.cs" />
+    <Compile Include="Controllers\ADM_PACIENTEController.cs" />
+    <Compile Include="Controllers\ADM_UBIGEOController.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\CON_CENTRO_COSTOController.cs" />
     <Compile Include="Controllers\CON_CONTACTOController.cs" />

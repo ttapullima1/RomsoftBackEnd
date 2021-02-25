@@ -100,10 +100,10 @@ namespace Romsoft.GESTIONCLINICA.DataAccess.Tablas
                             t_observacion = lector.IsDBNull(lector.GetOrdinal("t_observacion")) ? default(string) : lector.GetString(lector.GetOrdinal("t_observacion")),
                             t_descripcion = lector.IsDBNull(lector.GetOrdinal("t_descripcion")) ? default(string) : lector.GetString(lector.GetOrdinal("t_descripcion")),
                             f_estado = lector.IsDBNull(lector.GetOrdinal("f_estado")) ? default(int) : lector.GetInt32(lector.GetOrdinal("f_estado")),
-                            id_usuarioCreacion = lector.IsDBNull(lector.GetOrdinal("id_usuarioCreacion")) ? default(int) : lector.GetInt32(lector.GetOrdinal("id_usuarioCreacion")),
-                            id_usuarioModifica = lector.IsDBNull(lector.GetOrdinal("id_usuarioModifica")) ? default(int) : lector.GetInt32(lector.GetOrdinal("id_usuarioModifica")),
-                            UsuarioCreacion = lector.IsDBNull(lector.GetOrdinal("UsuarioCreacion")) ? default(string) : lector.GetString(lector.GetOrdinal("UsuarioCreacion")),
-                            UsuarioModificacion = lector.IsDBNull(lector.GetOrdinal("UsuarioModificacion")) ? default(string) : lector.GetString(lector.GetOrdinal("UsuarioModificacion")),
+                            id_usuarioCreacion = lector.IsDBNull(lector.GetOrdinal("id_user_registro")) ? default(int) : lector.GetInt32(lector.GetOrdinal("id_user_registro")),
+                            id_usuarioModifica = lector.IsDBNull(lector.GetOrdinal("id_user_modifica")) ? default(int) : lector.GetInt32(lector.GetOrdinal("id_user_modifica")),
+                            //UsuarioCreacion = lector.IsDBNull(lector.GetOrdinal("UsuarioCreacion")) ? default(string) : lector.GetString(lector.GetOrdinal("UsuarioCreacion")),
+                            //UsuarioModificacion = lector.IsDBNull(lector.GetOrdinal("UsuarioModificacion")) ? default(string) : lector.GetString(lector.GetOrdinal("UsuarioModificacion")),
                         });
                     }
                 }

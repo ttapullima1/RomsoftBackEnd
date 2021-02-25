@@ -960,3 +960,107 @@ Romsoft.GESTIONCLINICA.Entidades.CVN_BENEFICIO.CVN_BENEFICIO Trace:    en AutoMa
    en Romsoft.GESTIONCLINICA.DataAccess.Tablas.SEG_USUARIORepository.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\SEG_USUARIORepository.cs:línea 183
    en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.SEG_USUARIOBL.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\SEG_USUARIOBL.cs:línea 57
    en Romsoft.GESTIONCLINICA.WebApi.Controllers.AccountController.Login(LoginDTO loginDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\AccountController.cs:línea 23
+2021-02-16 07:39:57,110 ERROR  - Mensaje: id_plan_seguro Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_PACIENTERepository.GetAllFilters(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_PACIENTERepository.cs:línea 119
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_PACIENTEBL.GetAllFilters(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_PACIENTEBL.cs:línea 40
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_PACIENTEController.GetAllFilters(ADM_PACIENTEDTO pacienteDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_PACIENTEController.cs:línea 85
+2021-02-16 07:40:44,907 ERROR  - Mensaje: id_plan_seguro Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_PACIENTERepository.GetAllFilters(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_PACIENTERepository.cs:línea 119
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_PACIENTEBL.GetAllFilters(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_PACIENTEBL.cs:línea 40
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_PACIENTEController.GetAllFilters(ADM_PACIENTEDTO pacienteDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_PACIENTEController.cs:línea 85
+2021-02-16 07:42:24,166 ERROR  - Mensaje: id_plan_seguro Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_PACIENTERepository.GetAllFilters(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_PACIENTERepository.cs:línea 119
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_PACIENTEBL.GetAllFilters(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_PACIENTEBL.cs:línea 40
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_PACIENTEController.GetAllFilters(ADM_PACIENTEDTO pacienteDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_PACIENTEController.cs:línea 85
+2021-02-20 18:14:30,313 ERROR  - Mensaje: id_usuarioCreacion Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_OCUPACION_Repository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_OCUPACION_Repository.cs:línea 96
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_OCUPACIONBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_OCUPACIONBL.cs:línea 55
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_OCUPACIONController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_OCUPACIONController.cs:línea 235
+2021-02-20 18:15:56,706 ERROR  - Mensaje: id_usuarioCreacion Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_OCUPACION_Repository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_OCUPACION_Repository.cs:línea 96
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_OCUPACIONBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_OCUPACIONBL.cs:línea 55
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_OCUPACIONController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_OCUPACIONController.cs:línea 235
+2021-02-20 18:19:24,606 ERROR  - Mensaje: id_usuarioCreacion Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_OCUPACION_Repository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_OCUPACION_Repository.cs:línea 96
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_OCUPACIONBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_OCUPACIONBL.cs:línea 55
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_OCUPACIONController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_OCUPACIONController.cs:línea 235
+2021-02-20 18:22:08,343 ERROR  - Mensaje: id_usuarioCreacion Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_OCUPACION_Repository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_OCUPACION_Repository.cs:línea 96
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_OCUPACIONBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_OCUPACIONBL.cs:línea 55
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_OCUPACIONController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_OCUPACIONController.cs:línea 235
+2021-02-20 18:25:55,902 ERROR  - Mensaje: UsuarioCreacion Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_OCUPACION_Repository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_OCUPACION_Repository.cs:línea 96
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_OCUPACIONBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_OCUPACIONBL.cs:línea 55
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_OCUPACIONController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_OCUPACIONController.cs:línea 235
+2021-02-20 18:27:06,962 ERROR  - Mensaje: UsuarioCreacion Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_OCUPACION_Repository.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_OCUPACION_Repository.cs:línea 96
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_OCUPACIONBL.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_OCUPACIONBL.cs:línea 55
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_OCUPACIONController.GetAllActives() en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_OCUPACIONController.cs:línea 235
+2021-02-21 09:01:49,621 ERROR  - Mensaje: d_fecha_registro Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_PACIENTERepository.GetById(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_PACIENTERepository.cs:línea 156
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_PACIENTEBL.GetById(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_PACIENTEBL.cs:línea 50
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_PACIENTEController.GetById(ADM_PACIENTEDTO pacienteDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_PACIENTEController.cs:línea 206
+2021-02-21 09:02:21,434 ERROR  - Mensaje: d_fecha_registro Trace:    en System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   en System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   en Microsoft.Practices.EnterpriseLibrary.Data.DataReaderWrapper.GetOrdinal(String name)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.ADM_PACIENTERepository.GetById(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\ADM_PACIENTERepository.cs:línea 156
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.ADM_PACIENTEBL.GetById(ADM_PACIENTE entity) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\ADM_PACIENTEBL.cs:línea 50
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.ADM_PACIENTEController.GetById(ADM_PACIENTEDTO pacienteDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\ADM_PACIENTEController.cs:línea 206
+2021-02-24 13:50:41,798 ERROR  - Mensaje: Cannot open server 'romsoftservidor' requested by the login. Client with IP address '200.121.25.210' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. Trace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.GetNewOpenConnection()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.GetWrappedConnection()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.SEG_USUARIORepository.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\SEG_USUARIORepository.cs:línea 183
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.SEG_USUARIOBL.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\SEG_USUARIOBL.cs:línea 57
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.AccountController.Login(LoginDTO loginDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\AccountController.cs:línea 23
+2021-02-24 13:50:44,994 ERROR  - Mensaje: Cannot open server 'romsoftservidor' requested by the login. Client with IP address '200.121.25.210' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. Trace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.GetNewOpenConnection()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.GetWrappedConnection()
+   en Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   en Romsoft.GESTIONCLINICA.DataAccess.Tablas.SEG_USUARIORepository.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\Tablas\SEG_USUARIORepository.cs:línea 183
+   en Romsoft.GESTIONCLINICA.Business.Logic.Tablas.SEG_USUARIOBL.GetByUsername(String username, String clave) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.Business.Logic\Tablas\SEG_USUARIOBL.cs:línea 57
+   en Romsoft.GESTIONCLINICA.WebApi.Controllers.AccountController.Login(LoginDTO loginDTO) en D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.WebApi\Controllers\AccountController.cs:línea 23

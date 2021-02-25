@@ -1,4 +1,6 @@
-﻿
+﻿using Romsoft.GESTIONCLINICA.Entidades.Core;
+using System;
+
 
 namespace Romsoft.GESTIONCLINICA.Entidades.CON_CENTRO_COSTO
 {
